@@ -1,2 +1,2 @@
 # mole-calculator
-# mole-calculator
+GUI in PyQt
